@@ -2,7 +2,7 @@
 
 # 👾 Anas El Maliki
 
-### Cybersecurity Student & Pentester · Web Developer · CTF Player
+### Cybersecurity Student · Web Developer
 #### 🎓 EPSI School
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Breaking+things+ethically...;Learning+offensive+%26+defensive+security...;Competing+in+CTF+challenges...;Building+secure+web+apps...)
