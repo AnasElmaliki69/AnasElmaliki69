@@ -90,7 +90,7 @@ anas = {
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-el-maliki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anas-el-maliki](https://www.linkedin.com/in/anas-el-maliki-a2224527b/))
 
 ---
 
