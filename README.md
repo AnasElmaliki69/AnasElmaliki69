@@ -76,9 +76,7 @@ anas = {
 
 ## 📊 GitHub Stats
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasElmaliki69&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasElmaliki69&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
+![Anas's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasElmaliki69&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnasElmaliki69&theme=github-dark-blue&hide_border=true)
 
