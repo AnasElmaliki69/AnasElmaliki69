@@ -76,10 +76,13 @@ anas = {
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Anas's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasElmaliki69&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnasElmaliki69&theme=github-dark-blue&hide_border=true)
 
+</div>
 ---
 
 ## 🔗 Connect
