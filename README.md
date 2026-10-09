@@ -2,10 +2,10 @@
 
 # 👾 Anas El Maliki
 
-### Cybersecurity Student · Web Developer
-#### 🎓 EPSI School
+### Mastère 1 Expert en Cybersécurité · EPSI Lyon
+#### 🔍 Open to work — Alternance (work-study) in Network / Cybersecurity
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Breaking+things+ethically...;Learning+offensive+%26+defensive+security...;Competing+in+CTF+challenges...;Building+secure+web+apps...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Breaking+things+ethically...;Securing+networks+%26+systems...;Competing+in+CTF+challenges...;Building+secure+web+apps...)
 
 </div>
 
@@ -15,12 +15,14 @@
 
 ```python
 anas = {
-    "school":     "EPSI",
-    "focus":      "Cybersecurity",
-    "learning":   ["Pentesting", "SOC", "Cloud Security"],
-    "background": "Web Development",
-    "ctf":        True,
-    "location":   "Lyon"
+    "school":      "EPSI Lyon",
+    "program":     "Mastère 1 Expert en Cybersécurité",
+    "focus":       "Cybersecurity",
+    "learning":    ["Pentesting", "SOC", "Cloud Security"],
+    "background":  "Web Development",
+    "looking_for": "Alternance — Réseaux / Cybersécurité",
+    "ctf":         True,
+    "location":    "Lyon, France"
 }
 ```
 
@@ -39,12 +41,14 @@ anas = {
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 💻 Languages & Web
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -54,22 +58,37 @@ anas = {
 
 ---
 
+## 🚀 Featured Projects
+
+### 🦅 [Seahawks Monitoring](https://github.com/AnasElmaliki69/MSPR1-NFL-IT)
+Network supervision solution for multi-site environments — distributed architecture with a local agent (network scans, JSON reports, offline mode) and a central platform. Security built in from day one: least privilege, structured logging.
+`Python` `Linux` `Networking` — *My role: global architecture & network collection engine*
+
+### 🛡️ [Disaster Recovery Plan (PRA) — Infrastructure](https://github.com/AnasElmaliki69/MSPR2-NFT-IT)
+Complete Plan de Reprise d'Activité: critical asset inventory, RTO/RPO definitions, backup strategy (local + Azure), restore procedures and incident communication plan.
+`VPN` `NGFW` `Infrastructure Design` — *My role: PRA design, VPN/NGFW choices, infra architecture*
+
+### 🗄️ [High-Availability Secure MySQL Database](https://github.com/AnasElmaliki69/MSPR-3)
+Secure HA database design for a logistics WMS — SGBD benchmark, Primary (Lille) → Replica (Lens) replication, PRA on NAS + Azure Blob (RTO 1h / RPO 15min), SQL security policies.
+`MySQL` `HA` `Backup & Recovery` — *My role: architecture & SGBD*
+
+---
+
 ## 📜 Certifications
 
 ### ✅ Earned
 
 | Certificate | Issuer | Year |
 |---|---|---|
+| 🛡️ CompTIA Security+ | CompTIA | 2026 |
+| ☁️ Google Cybersecurity Professional | Google | 2026 |
+| 🔐 Cisco Certified CyberOps Associate | Cisco | 2025 |
+| 🌐 CCNA Networking Essentials | Cisco | 2025 |
 | 🗣️ TOEIC B2-C1 | ETS | 2026 |
-| 🔐 Cisco Certified Network Associate Cyber Ops (CCNA) | Cisco | 2025 |
-| 🌐 CCNA Networking Essentials – Cisco Networking Fundamentals | Cisco | 2025 |
 | 🐍 Microservices en Python : Conception, Scaling & Déploiement | Udemy | 2026 |
 
 ### 🔄 Currently Preparing
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B_(SY0--701)-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-![Cisco CyberOps](https://img.shields.io/badge/Cisco_CyberOps_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Engineer-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Digital_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
