@@ -33,7 +33,7 @@ anas = {
 - 🔭 Currently working on: hardening my MSPR projects & prepping the Google Cloud cert
 - 🌱 Currently learning: penetration testing, SOC operations, cloud security
 - 💬 Ask me about: network security, Python scripting, vulnerability analysis, CTFs
-- ⚡ Fun fact: I break things ethically before breakfast
+- 🏁 Root-Me: 3,500 points - anas.elmaliki
 
 ---
 
