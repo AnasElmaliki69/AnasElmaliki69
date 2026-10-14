@@ -23,7 +23,7 @@ anas = {
     "program":     "Mastère 1 Expert en Cybersécurité",
     "focus":       "Cybersecurity",
     "learning":    ["Pentesting", "SOC", "Cloud Security"],
-    "background":  "Web Development",
+    "background":  "Web Development", "Programming" 
     "looking_for": "Alternance — Réseaux / Cybersécurité",
     "ctf":         True,
     "location":    "Lyon, France"
