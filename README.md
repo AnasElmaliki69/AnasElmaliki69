@@ -30,10 +30,10 @@ anas = {
 }
 ```
 
-- 🔭 Currently working on: hardening my MSPR projects & prepping the Google Cloud cert
+- 🔭 Currently working on: hardening my MSPR projects 
 - 🌱 Currently learning: penetration testing, SOC operations, cloud security
 - 💬 Ask me about: network security, Python scripting, vulnerability analysis, CTFs
-- 🏁 Root-Me: 3,500 points - anas.elmaliki
+- 🏁 Root-Me: 3,600 points - anas.elmaliki
 
 ---
 
